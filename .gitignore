@@ -1,0 +1,14 @@
+/build
+/node_modules
+package-lock.json
+/build
+.vscode
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# NPM lock fils
+*-lock*.*
+*.lock
+yarn.lock
